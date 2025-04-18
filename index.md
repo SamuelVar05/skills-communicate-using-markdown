@@ -12,3 +12,8 @@ def hello():
 
 print(hello())
 ```
+
+## Task list
+- [ ] Redesign my CV
+- [ ] Update my portfolio
+- [ ] Get a job
